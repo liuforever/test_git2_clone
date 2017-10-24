@@ -1,1 +1,2 @@
 add new line
+master add test merge conflict
